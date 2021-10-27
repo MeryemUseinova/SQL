@@ -1,2 +1,2 @@
 -- Вывести все поля и все строки 
-select * from qa_users;
+SELECT * FROM qa_users;
